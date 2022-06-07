@@ -1,0 +1,5 @@
+# Venvs
+witcher-venv/
+
+# Checkpoints 
+.ipynb_checkpoints/
