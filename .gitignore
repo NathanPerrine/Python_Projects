@@ -1,5 +1,6 @@
 # Venvs
 witcher-venv/
+maze_venv/ 
 
 # Checkpoints 
 .ipynb_checkpoints/
